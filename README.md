@@ -2,7 +2,8 @@
 
 Schreib ein Terminal-Programm, das das Wetter für eine Stadt anzeigen kann. Es sollte als Parameter den Namen der Stadt annehmen. Um die Wetter-Info zu laden, kannst du die [`OpenWeather`](https://openweathermap.org/guide)-API benutzen.
 
--   Nutze `axios`. Richte dafür deinen eigenen `API KEY` ein.
+-   Nutze `axios`
+-   Richte deinen eigenen `API KEY` ein.
 
 -   So sollte die Ausgabe sein:
 
