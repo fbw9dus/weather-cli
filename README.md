@@ -17,3 +17,5 @@ The current weather conditions are: few clouds
 
 -   Dein Programm soll die Wettervorhersage für die nächsten fünf Tage anzeigen
 -   Dein Programm soll die Temperatur auch in Fahrenheit anzeigen können.
+-   Schreib eine http-Schnittstelle für dein Programm, so dass es im Browser aufrufbar ist. Die Stadt kann in der URL angegeben werden
+-   Deploy dein Programm auf den Server
